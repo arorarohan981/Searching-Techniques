@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>BinarySearch.h</itemPath>
+      <itemPath>FibonacciSearch.h</itemPath>
       <itemPath>LinearSearch.h</itemPath>
       <itemPath>SequentialSentinalSearch.h</itemPath>
     </logicalFolder>
@@ -44,6 +45,8 @@
       </compileType>
       <item path="BinarySearch.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="FibonacciSearch.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="LinearSearch.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="SequentialSentinalSearch.h" ex="false" tool="3" flavor2="0">
@@ -73,6 +76,8 @@
         </asmTool>
       </compileType>
       <item path="BinarySearch.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FibonacciSearch.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="LinearSearch.h" ex="false" tool="3" flavor2="0">
       </item>
